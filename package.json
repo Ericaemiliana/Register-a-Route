@@ -1,0 +1,24 @@
+{
+  "name": "adding_a_route",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericaemiliana/Register-a-Route.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ericaemiliana/Register-a-Route/issues"
+  },
+  "homepage": "https://github.com/Ericaemiliana/Register-a-Route#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1"
+  }
+}
